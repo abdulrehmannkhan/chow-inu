@@ -218,3 +218,6 @@ section#about  p {
 .elementor-202 .elementor-element.elementor-element-63ac477b .hfe-nav-menu-layout:not(.hfe-pointer__framed) .menu-item.parent a.hfe-menu-item:after {
     background: #24509b;
 }
+.elementor-10 .elementor-element.elementor-element-311cc3d0 {
+    --divider-color: #151716;
+}
